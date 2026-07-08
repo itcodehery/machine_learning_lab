@@ -1,4 +1,6 @@
 ignore/
 .ipynb_checkpoints/
-
+*.zip
+*.pdf
+*.py
 cca_missing_data_executed_ipynb
