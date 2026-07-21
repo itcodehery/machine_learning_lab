@@ -4,3 +4,10 @@ ignore/
 *.pdf
 *.py
 cca_missing_data_executed_ipynb
+
+*.xlsx
+*.csv
+*.html
+*.zip_old
+*.R
+*.txt
